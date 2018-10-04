@@ -1,0 +1,27 @@
+﻿{
+  "AnnualSalaryBeforeSeptember": 100000.00,
+  "AnnualSalaryAfterSeptember": 105000.00,
+  "PreTax401kWithholdingRate": 15,
+  "StayFitTaxable": 50.00,
+  "DisabilityInsuranceTaxable": 10.10,
+  "ImputedLifeInsurance": 5.15,
+  "HSALumpSum": 3000,
+  "FederalTaxRate": 22,
+  "AfterTax401kWithholdingRate": 10,
+  "ESPPWithholdingRate": 15,
+  "LegalPlanPaycheckFee": 5.00,
+  "PerPaycheckSettings": [
+    {
+      "Month": 3,
+      "Day": 15,
+      "Bonus": 0.0,
+      "StockAwards": 300
+    },
+    {
+      "Month": 9,
+      "Day": 15,
+      "Bonus": 20000.0,
+      "StockAwards": 0
+    }
+  ]
+}

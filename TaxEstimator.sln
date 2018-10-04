@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch", "Scratch\Scratch.csproj", "{16F83FB8-E969-4206-8581-9CB7BC04C558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxEstimator", "TaxEstimator\TaxEstimator.csproj", "{D0535BCD-8B3D-4E6B-B3E6-11DD7C4A88C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16F83FB8-E969-4206-8581-9CB7BC04C558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F83FB8-E969-4206-8581-9CB7BC04C558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F83FB8-E969-4206-8581-9CB7BC04C558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F83FB8-E969-4206-8581-9CB7BC04C558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0535BCD-8B3D-4E6B-B3E6-11DD7C4A88C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0535BCD-8B3D-4E6B-B3E6-11DD7C4A88C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0535BCD-8B3D-4E6B-B3E6-11DD7C4A88C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0535BCD-8B3D-4E6B-B3E6-11DD7C4A88C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49B634AD-8D84-4D6F-A677-7601FE70B4A7}
+	EndGlobalSection
+EndGlobal
